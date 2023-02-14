@@ -2,7 +2,7 @@
   {
     "title": "Hillsong Church",
     "label": "Mobile",
-    "description": "Hillsong Church is a church community app. where members of the church can submit prayer requests, praise reports, requests for help, volunteer opportunities, and community group memberships. Through the app, users can view church events and listen to live radio broadcasts.",
+    "description": "The Hillsong Church app is a powerful tool that brings people closer to their faith, providing a seamless and convenient way to connect with the church community. This app enables users to find and join the Hillsong Church, one of the most popular and dynamic churches in the world.\n\nWith the Hillsong Church app, users can send prayer requests or ask for help, connecting them with the broader community for support and guidance. The app offers a user-friendly interface that makes it easy for users to navigate and find the resources they need.\n\nMoreover, the Hillsong Church app features a radio function that allows users to listen to the church's sermons and music. This feature ensures that users can stay connected with their faith, even when they are unable to attend church in person.\n\nWhether someone is looking for spiritual guidance, support, or inspiration, the Hillsong Church app provides a comprehensive solution for connecting with the church community. This app is an invaluable resource for people seeking a deeper connection to their faith, and it offers a seamless and convenient way to access the many resources that the Hillsong Church has to offer.",
     "images": [
       "/assets/images/hillsong_church/1.jpg",
       "/assets/images/hillsong_church/2.jpg",
@@ -13,33 +13,22 @@
       "/assets/images/hillsong_church/7.jpg",
       "/assets/images/hillsong_church/8.jpg",
       "/assets/images/hillsong_church/9.jpg",
-      "/assets/images/hillsong_church/10.jpg",
-      "/assets/images/hillsong_church/11.jpg",
-      "/assets/images/hillsong_church/12.jpg",
-      "/assets/images/hillsong_church/13.jpg",
-      "/assets/images/hillsong_church/14.jpg",
-      "/assets/images/hillsong_church/15.jpg",
-      "/assets/images/hillsong_church/16.jpg"
-    ]
+      "/assets/images/hillsong_church/10.jpg"
+    ],
+    "thumbnail": "/assets/images/hillsong_church/1.jpg"
   },
   {
     "title": "SIPOLI",
     "label": "Mobile & Tablet",
-    "description": "SIPOLI is a SIM-making psychotest application that allows users to submit SIM creations, SIM extensions, and other SIM-related items. The program also allows users to take the test, view submissions made in the past, and view the psychological test's results.",
+    "description": "The SIPOLI app is the official driving licence test app from the government, designed to make it easier and more convenient for people to prepare for their driving licence test. This app offers a wide range of features that make it easy for users to create new submissions, do psychotests, and view their test certificate, all from the convenience of their mobile device.",
     "images": [
       "/assets/images/sipoli/1.jpg",
       "/assets/images/sipoli/2.jpg",
       "/assets/images/sipoli/3.jpg",
       "/assets/images/sipoli/4.jpg",
       "/assets/images/sipoli/5.jpg",
-      "/assets/images/sipoli/6.jpg",
-      "/assets/images/sipoli/7.jpg",
-      "/assets/images/sipoli/8.jpg",
-      "/assets/images/sipoli/9.jpg",
-      "/assets/images/sipoli/10.jpg",
-      "/assets/images/sipoli/11.jpg",
-      "/assets/images/sipoli/12.jpg",
-      "/assets/images/sipoli/13.jpg"
-    ]
+      "/assets/images/sipoli/6.jpg"
+    ],
+    "thumbnail": "/assets/images/sipoli/1.jpg"
   }
 ]

@@ -1,38 +1,22 @@
 [
   {
-    "name": "C#",
-    "value": 75
-  },
-  {
-    "name": ".NET Core",
-    "value": 75
-  },
-  {
-    "name": "ASP.NET Core Web API",
-    "value": 85
-  },
-  {
-    "name": "Dart",
-    "value": 70
-  },
-  {
+    "image": "/assets/flutter.png",
     "name": "Flutter",
-    "value": 80
+    "description": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase."
   },
   {
-    "name": "Typescript",
-    "value": 55
+    "image": "/assets/netcore.png",
+    "name": "ASP.NET Core",
+    "description": "ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps."
   },
   {
-    "name": "React",
-    "value": 60
+    "image": "/assets/react.png",
+    "name": "ReactJS",
+    "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”."
   },
   {
+    "image": "/assets/tailwindcss.png",
     "name": "TailwindCSS",
-    "value": 75
-  },
-  {
-    "name": "PostgresSQL",
-    "value": 60
+    "description": "Tailwind CSS is a \"utility-first CSS framework\" which provides several of these opinionated, single-purpose utility classes that you can use directly inside your markup to design an element."
   }
 ]
