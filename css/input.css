@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Poppins", sans-serif;
+    background-color: theme("colors.background");
+    color: theme("colors.onBackground");
+  }
+}
+
+@layer components {
+  ol,
+  ul {
+    @apply flex flex-col gap-4 list-disc ml-4;
+  }
+  ol p,
+  ul p {
+    @apply inline;
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
