@@ -1,13 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Edwin Sulaiman</title><link>https://edsulaiman.github.io/projects/</link><description>Recent content in Projects on Edwin Sulaiman</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Aug 2023 22:52:34 +0700</lastBuildDate><atom:link href="https://edsulaiman.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Payfren</title><link>https://edsulaiman.github.io/projects/payfren/</link><pubDate>Fri, 18 Aug 2023 22:52:34 +0700</pubDate><guid>https://edsulaiman.github.io/projects/payfren/</guid><description>I&amp;rsquo;m thrilled to showcase a project that I&amp;rsquo;ve been leading as the Lead of Flutter Developer – PayFren Mobile App. This project is a testament to my commitment to crafting seamless, user-friendly solutions that redefine the way businesses handle transactions.
-Project Overview:
-Seamless Transactions with Static QRIS: Imagine customers completing payments with a simple scan. The PayFren Mobile App introduces a static QRIS feature that revolutionizes the customer experience. Customers scan the code, input the payment amount, and confirm the transaction.</description></item><item><title>Moto1 Back Office</title><link>https://edsulaiman.github.io/projects/moto1-back-office/</link><pubDate>Wed, 26 Jul 2023 10:56:48 +0700</pubDate><guid>https://edsulaiman.github.io/projects/moto1-back-office/</guid><description>I&amp;rsquo;m excited to showcase a project that holds a special place in my journey – Moto1 Back Office. As the Lead Flutter Developer, I&amp;rsquo;ve spearheaded the development of this comprehensive Enterprise Resource Planning (ERP) application, tailored exclusively for the Moto1 workshop. This project reflects my dedication to crafting solutions that streamline operations and enhance business efficiency.
-Project Overview:
-Streamlined Employee Management: Imagine seamlessly managing your workforce with just a tap. As the lead Flutter developer, I&amp;rsquo;ve integrated a range of functionalities into the Moto1 Back Office, including attendance tracking, leave management, task assignments, and scheduling.</description></item><item><title>Moto1 Pos</title><link>https://edsulaiman.github.io/projects/moto1-pos/</link><pubDate>Wed, 26 Jul 2023 10:49:30 +0700</pubDate><guid>https://edsulaiman.github.io/projects/moto1-pos/</guid><description>I&amp;rsquo;m thrilled to showcase a project that speaks volumes about my capabilities – Moto1 POS. As a Lead Flutter Developer, I&amp;rsquo;ve been at the forefront of crafting this dedicated Point of Sale (POS) application, designed exclusively for the Moto1 workshop. This project is a testament to my commitment to creating solutions that enhance operational efficiency and elevate customer satisfaction.
-Project Snapshot:
-Streamlined Order Reception: Imagine simplifying the order reception process to a tap.</description></item><item><title>Moto1 Customer</title><link>https://edsulaiman.github.io/projects/moto1-customer/</link><pubDate>Wed, 26 Jul 2023 10:47:26 +0700</pubDate><guid>https://edsulaiman.github.io/projects/moto1-customer/</guid><description>I&amp;rsquo;m thrilled to present a project that captures the essence of transformative innovation – Moto1 Customer. As the Lead Flutter Developer, I&amp;rsquo;ve played a pivotal role in crafting this cutting-edge mobile application designed to revolutionize the motorcycle service and ownership experience. This project exemplifies my dedication to creating solutions that seamlessly integrate technology into daily lives, enhancing convenience and personalization.
-Project Glimpse:
-Effortless Service Booking: Imagine booking motorcycle services with just a tap.</description></item><item><title>Hillsong Church</title><link>https://edsulaiman.github.io/projects/hillsong-church/</link><pubDate>Tue, 25 Jul 2023 17:27:17 +0000</pubDate><guid>https://edsulaiman.github.io/projects/hillsong-church/</guid><description>Allow me to introduce a project that stands as a bridge between technology and faith – the Hillsong Church App. As a developer passionate about meaningful applications, I&amp;rsquo;ve contributed to creating this powerful tool that brings people closer to their faith, fostering connections within the Hillsong Church community.
-Project Overview:
-Seamless Faith-Focused Connectivity: The Hillsong Church App is a gateway to profound spiritual connections. My role involved crafting an interface that effortlessly allows users to find and join the vibrant Hillsong Church community.</description></item><item><title>SIPOLI</title><link>https://edsulaiman.github.io/projects/sipoli/</link><pubDate>Tue, 25 Jul 2023 17:27:17 +0000</pubDate><guid>https://edsulaiman.github.io/projects/sipoli/</guid><description>I&amp;rsquo;m excited to introduce a remarkable project that aligns technology and government services – the SIPOLI App. As a passionate developer, I&amp;rsquo;ve been involved in creating this official driving licence test app, a platform designed to simplify and enhance the journey towards obtaining a driving licence. This project epitomizes my commitment to making government services more accessible and user-friendly.
-Project Overview:
-Seamless Test Preparation: The SIPOLI App is a gateway to effortless driving licence test preparation.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Edwin Sulaiman</title>
+    <link>https://edsulaiman.github.io/projects/</link>
+    <description>Recent content in Projects on Edwin Sulaiman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Aug 2023 22:52:34 +0700</lastBuildDate>
+    <atom:link href="https://edsulaiman.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Payfren</title>
+      <link>https://edsulaiman.github.io/projects/payfren/</link>
+      <pubDate>Fri, 18 Aug 2023 22:52:34 +0700</pubDate>
+      <guid>https://edsulaiman.github.io/projects/payfren/</guid>
+      <description>I&amp;rsquo;m thrilled to showcase a project that I&amp;rsquo;ve been leading as the Lead of Flutter Developer – PayFren Mobile App. This project is a testament to my commitment to crafting seamless, user-friendly solutions that redefine the way businesses handle transactions.&#xA;Project Overview:&#xA;Seamless Transactions with Static QRIS: Imagine customers completing payments with a simple scan. The PayFren Mobile App introduces a static QRIS feature that revolutionizes the customer experience. Customers scan the code, input the payment amount, and confirm the transaction.</description>
+    </item>
+    <item>
+      <title>Moto1 Back Office</title>
+      <link>https://edsulaiman.github.io/projects/moto1-back-office/</link>
+      <pubDate>Wed, 26 Jul 2023 10:56:48 +0700</pubDate>
+      <guid>https://edsulaiman.github.io/projects/moto1-back-office/</guid>
+      <description>I&amp;rsquo;m excited to showcase a project that holds a special place in my journey – Moto1 Back Office. As the Lead Flutter Developer, I&amp;rsquo;ve spearheaded the development of this comprehensive Enterprise Resource Planning (ERP) application, tailored exclusively for the Moto1 workshop. This project reflects my dedication to crafting solutions that streamline operations and enhance business efficiency.&#xA;Project Overview:&#xA;Streamlined Employee Management: Imagine seamlessly managing your workforce with just a tap. As the lead Flutter developer, I&amp;rsquo;ve integrated a range of functionalities into the Moto1 Back Office, including attendance tracking, leave management, task assignments, and scheduling.</description>
+    </item>
+    <item>
+      <title>Moto1 Pos</title>
+      <link>https://edsulaiman.github.io/projects/moto1-pos/</link>
+      <pubDate>Wed, 26 Jul 2023 10:49:30 +0700</pubDate>
+      <guid>https://edsulaiman.github.io/projects/moto1-pos/</guid>
+      <description>I&amp;rsquo;m thrilled to showcase a project that speaks volumes about my capabilities – Moto1 POS. As a Lead Flutter Developer, I&amp;rsquo;ve been at the forefront of crafting this dedicated Point of Sale (POS) application, designed exclusively for the Moto1 workshop. This project is a testament to my commitment to creating solutions that enhance operational efficiency and elevate customer satisfaction.&#xA;Project Snapshot:&#xA;Streamlined Order Reception: Imagine simplifying the order reception process to a tap.</description>
+    </item>
+    <item>
+      <title>Moto1 Customer</title>
+      <link>https://edsulaiman.github.io/projects/moto1-customer/</link>
+      <pubDate>Wed, 26 Jul 2023 10:47:26 +0700</pubDate>
+      <guid>https://edsulaiman.github.io/projects/moto1-customer/</guid>
+      <description>I&amp;rsquo;m thrilled to present a project that captures the essence of transformative innovation – Moto1 Customer. As the Lead Flutter Developer, I&amp;rsquo;ve played a pivotal role in crafting this cutting-edge mobile application designed to revolutionize the motorcycle service and ownership experience. This project exemplifies my dedication to creating solutions that seamlessly integrate technology into daily lives, enhancing convenience and personalization.&#xA;Project Glimpse:&#xA;Effortless Service Booking: Imagine booking motorcycle services with just a tap.</description>
+    </item>
+    <item>
+      <title>Hillsong Church</title>
+      <link>https://edsulaiman.github.io/projects/hillsong-church/</link>
+      <pubDate>Tue, 25 Jul 2023 17:27:17 +0000</pubDate>
+      <guid>https://edsulaiman.github.io/projects/hillsong-church/</guid>
+      <description>Allow me to introduce a project that stands as a bridge between technology and faith – the Hillsong Church App. As a developer passionate about meaningful applications, I&amp;rsquo;ve contributed to creating this powerful tool that brings people closer to their faith, fostering connections within the Hillsong Church community.&#xA;Project Overview:&#xA;Seamless Faith-Focused Connectivity: The Hillsong Church App is a gateway to profound spiritual connections. My role involved crafting an interface that effortlessly allows users to find and join the vibrant Hillsong Church community.</description>
+    </item>
+    <item>
+      <title>SIPOLI</title>
+      <link>https://edsulaiman.github.io/projects/sipoli/</link>
+      <pubDate>Tue, 25 Jul 2023 17:27:17 +0000</pubDate>
+      <guid>https://edsulaiman.github.io/projects/sipoli/</guid>
+      <description>I&amp;rsquo;m excited to introduce a remarkable project that aligns technology and government services – the SIPOLI App. As a passionate developer, I&amp;rsquo;ve been involved in creating this official driving licence test app, a platform designed to simplify and enhance the journey towards obtaining a driving licence. This project epitomizes my commitment to making government services more accessible and user-friendly.&#xA;Project Overview:&#xA;Seamless Test Preparation: The SIPOLI App is a gateway to effortless driving licence test preparation.</description>
+    </item>
+  </channel>
+</rss>
